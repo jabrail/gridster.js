@@ -1,5 +1,6 @@
 {
   "name": "gridster",
+  "main" : "./dist/jquery.gridster.js",
   "title": "gridster.js",
   "description": "a drag-and-drop multi-column jQuery grid plugin",
   "version": "0.5.6",
